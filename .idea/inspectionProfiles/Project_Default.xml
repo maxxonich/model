@@ -1,0 +1,26 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="mypractice_site.mypractice_site.urls.reviews" />
+          <option value="mypractice_site.mypractice_site.urls.urlpatterns" />
+          <option value="mypractice_site.reviews.models.Image.objects" />
+          <option value="mypractice_site.auth.urls.auth" />
+          <option value="rest_framework_simplejwt.token_blacklist.models.OutstandingToken.objects" />
+          <option value="rest_framework_simplejwt.token_blacklist.models.BlacklistedToken.objects" />
+          <option value="images.putinwarcrimes.models.Language.objects" />
+          <option value="images.putinwarcrimes.models.Category.objects" />
+          <option value="images.putinwarcrimes.models.Photo.objects" />
+          <option value="images.putinwarcrimes.models.Categorydescription.objects" />
+          <option value="images.putinwarcrimes.models.PhotoDescription.objects" />
+          <option value="images.putinwarcrimes.models.Language.DoesNotExist" />
+          <option value="images.putinwarcrimes.models.Category.DoesNotExist" />
+          <option value="images.putinwarcrimes.models.Photo.DoesNotExist" />
+          <option value="images.putinwarcrimes.models.PhotoDescription.DoesNotExist" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
